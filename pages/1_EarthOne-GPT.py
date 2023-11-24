@@ -1,8 +1,7 @@
 import streamlit as st
 
-def main():
-    st.title("Privacy Policy")
-    st.write("""As EarthOne's AI assistant, I am designed to provide strategic, technical, and operational support specifically for the EarthOne biotech startup. Here are the user policies for interacting with me, tailored to the founding team's needs:
+st.title("Privacy Policy")
+st.write("""As EarthOne's AI assistant, I am designed to provide strategic, technical, and operational support specifically for the EarthOne biotech startup. Here are the user policies for interacting with me, tailored to the founding team's needs:
 
 User Policies for EarthOne's AI Assistant (EarthOne)
 1. Access and Use Restrictions: 
@@ -32,5 +31,3 @@ Regulatory Adherence: All advice and solutions will comply with the applicable l
 By adhering to these policies, the founding team of EarthOne can effectively utilize my capabilities to advance the startup's objectives."""
 )
 
-if __name__ == "__main__":
-    main()
