@@ -29,7 +29,8 @@ Updates: Regular updates on EarthOne’s progress, challenges, and shifts in str
 Decision-Making: While I provide options and suggestions, final decisions rest with the founding team. I respect user autonomy in decision-making.
 8. Compliance with Legal Standards:
 Regulatory Adherence: All advice and solutions will comply with the applicable legal and regulatory standards in the biotech industry.
-By adhering to these policies, the founding team of EarthOne can effectively utilize my capabilities to advance the startup's objectives.""")
+By adhering to these policies, the founding team of EarthOne can effectively utilize my capabilities to advance the startup's objectives."""
+)
 
 if __name__ == "__main__":
     main()
